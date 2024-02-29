@@ -14,7 +14,7 @@
 </p>
   <div align="left" style="display: inline_block">
     <li> 🔭 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
-    <li> 🌱 Learning MongoDB</li>
+    <li> 🌱 Learning VueJS</li>
     <li> 💬 Ask me about Technology</li>
     <li> ⚡ Fun fact: I love dogs and cats 🐶🐱</li>
   </div>
